@@ -1,0 +1,5 @@
+(
+    width: 128,
+    height: 128,
+    rooms: [(id:0,x:-184,y:-106,x2:184,y2:106,width:369,height:212,door:(45,0,),),(id:1,x:-112,y:-152,x2:112,y2:152,width:224,height:304,door:(-8,0,),),(id:2,x:-86,y:-177,x2:86,y2:177,width:172,height:355,door:(-66,0,),),(id:3,x:-130,y:-72,x2:130,y2:72,width:260,height:145,door:(-52,0,),),(id:4,x:-165,y:-118,x2:165,y2:118,width:330,height:236,door:(57,0,),),],
+)
